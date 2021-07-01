@@ -7,6 +7,7 @@
 # Tech used 
 - JavaScript 
 - puppeteer (nodeJS)
+- nodemailer (nodeJS)
 
 # Concepts implemented
 - Promises
